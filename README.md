@@ -50,7 +50,7 @@ Trained using Linear Regression and Decision Tree Regressor on a housing dataset
 ## 🧪 Local Installation
 
 ```bash
-git clone https://github.com/your-username/real_estate_price_predictor.git
+git clone https://github.com/zoezoe513/Real_Estate_Solution
 cd real_estate_price_predictor
 python -m venv env
 source env/bin/activate  # On Windows use `env\\Scripts\\activate`
